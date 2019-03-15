@@ -1,0 +1,1000 @@
+  296  ls
+  297  rm -r README.md
+  298  ls
+  299  git checkout master
+  300  git checkout wcs
+  301  ls
+  302  git checkout master
+  303  ls
+  304  git rm README.md
+  305  git commit -m "remove README.md"
+  306  git checkout wcs
+  307  ls
+  308  git checkout master
+  309  ls
+  310  git pull origin master
+  311  git merge wcs
+  312  cd quetes/git
+  313  git pull origin master --allow-unrelated-histories
+  314  git checkout master
+  315  ls
+  316  git checkout wcs
+  317  git status
+  318  git reset HEAD wild.php
+  319  git checkout wcs
+  320  git checkout master
+  321  git pull origin master
+  322  got pull origin master --allows-unrelated-histories
+  323  git pull origin master --allows-unrelated-histories
+  324  ls
+  325  git checkout wcs
+  326  git reset --hard HEAD
+  327  ls
+  328  git checkout wcs
+  329  ls
+  330  git checkout master
+  331  git pull origin master
+  332  git remove -v
+  333  git remote -v
+  334  git checkout master
+  335  git push -u origin master
+  336  git checkout wcs
+  337  git push -u origin wcs
+  338  ls
+  339  git checkout wcs
+  340  ls
+  341  git pull origin wcs
+  342  git merge origin/wcs
+  343  git status
+  344  git checkout master
+  345  git pull origin master
+  346  git checkout wcs
+  347  ls
+  348  git add wild.php
+  349  locate -i wild.php
+  350  ls
+  351  cd quetes/git/wild.php
+  352  /quetes/git
+  353  cd quetes/git
+  354  cd ~
+  355  ls
+  356  cd quetes/git
+  357  ls
+  358  git checkout master
+  359  ls
+  360  git status
+  361  git checkout master
+  362  git pull origin master
+  363  git merge wcs
+  364  ls
+  365  cd ~
+  366  ls
+  367  cd quetes/git
+  368  ls
+  369  git checkout master
+  370  git checkout wcs
+  371  ls
+  372  git checkout master
+  373  git merge wcs
+  374  ls
+  375  git checkout master
+  376  ls
+  377  git push -u origin master
+  378  git pull (--rebase)
+  379  git pull origin master
+  380  git checkout master
+  381  ls
+  382  git checkout wcs
+  383  ls
+  384  git checkout master
+  385  git merge wcs
+  386  git pull origin master
+  387  ls
+  388  git merge wcs
+  389  ls
+  390  git push -u origin master
+  391  git pull -u origin master
+  392  git pull origin master
+  393  ls
+  394  git checkout master
+  395  ls
+  396  git checkout wcs
+  397  ls
+  398  git checkout master
+  399  git push -u origin master
+  400  git status
+  401  git push origin master
+  402  git push origin master --force
+  403  ls
+  404  LQ
+  405  ls
+  406  git checkout wcs
+  407  ls
+  408  git checkout master
+  409  ls
+  410  cd ~
+  411  git clone fork
+  412  git clone wild-project
+  413  git clone AlexNC
+  414  NTR
+  415  git pull wild-project
+  416  cd quetes/git
+  417  git pull wild-project
+  418  cd quetes
+  419  cd /quetes
+  420  cd quetes
+  421  cd ~
+  422  cd /quetes
+  423  cd ..
+  424  ~
+  425  cd quetes/git
+  426  ls
+  427  cd wilder
+  428  cd quetes
+  429  ls
+  430  mkdir atelier
+  431  ls
+  432  cd atalier
+  433  cd atelier
+  434  git pull wild-project
+  435  git clone https://github.com/AlexNc/wild-project.git
+  436  ls
+  437  mv wild-project wild-link
+  438  ks
+  439  ls
+  440  echo  "Kirby est mechant" > kirby1.js
+  441  ls
+  442  mv kirby1.js not_same_file.js
+  443  ls
+  444  echo "Kirby est mauvais" > same_file.js
+  445  ls
+  446  echo "// mustn't be shared on github" > secret_file.js
+  447  ls
+  448  git status
+  449  cd quetes
+  450  mkdir projet1
+  451  ls
+  452  cd quetes/projet1
+  453  ls
+  454  cd projet1
+  455  git clone https://github.com/LucasMouraud/book-wilders.git
+  456  lq
+  457  git status
+  458  find /home/username/ -name "book-wilders"
+  459  ls
+  460  cd quetes/projet1/book-wilders
+  461  cd book-wilders
+  462  ls
+  463  git commit ntr
+  464  git commit
+  465  ls
+  466  git commit master
+  467  git commit
+  468  git status
+  469  git pull index.html
+  470  git pull origin index.html
+  471  git pull origin master
+  472  git status
+  473  git add index.html
+  474  ls
+  475  git push origin master
+  476  git commit
+  477  git push origin master
+  478  git status
+  479  ls
+  480  cd ~
+  481  cd quetes
+  482  git clone https://github.com/JuDubois/book-des-wilders "projet2"
+  483  cd projet2
+  484  ls
+  485  git status
+  486  ls
+  487  git pull
+  488  ls
+  489  code .
+  490  cd quetes
+  491  ls
+  492  cd projet2
+  493  ls
+  494  git pull
+  495  git push
+  496  ls
+  497  git status
+  498  git add Projetbook.css
+  499  git ass Projetbook.htl
+  500  git add Projetbook.html
+  501  git push
+  502  git status
+  503  git push origin master
+  504  git status
+  505  git commit
+  506  git push origin master
+  507  git pull
+  508  git status
+  509  git push origin master
+  510  ls
+  511  cd ~
+  512  sudo apt install default-jdk
+  513  javac --version
+  514  cd quetes/javaprojects/javaintro
+  515  cd quetes
+  516  cd javaprojects
+  517  cd JavaProjects
+  518  cd JavaIntro
+  519  echo HelloWorld.java
+  520  ls
+  521  echo > Helloworld.java
+  522  ls
+  523  gedit Helloworld.java &
+  524  javac HelloWorld.java
+  525  ls
+  526  javac HelloWorld.java
+  527  javac Helloworld.java
+  528  ls
+  529  java Helloworld
+  530  java HelloWorld
+  531  java -c HelloWorld.class
+  532  javap -c HelloWorld.class
+  533  cd ..
+  534  cd NoticeMe
+  535  echo > Senpai.java
+  536  ls
+  537  javac senpai.java
+  538  javac Senpai.java
+  539  ls
+  540  gedit Senpai.java
+  541  javac Senpai.java
+  542  ls
+  543  cd ..
+  544  mkdir Candies
+  545  ls
+  546  cd Candies
+  547  echo > CandyCount.java
+  548  ls
+  549  gedit Candycount.java
+  550  javac CandyCount.java
+  551  ls
+  552  dz
+  553  ls
+  554  cd ..
+  555  cd ~
+  556  dzadza
+  557  d
+  558  zad
+  559  za
+  560  dza
+  561  ls
+  562  cd quetes
+  563  ls
+  564  cd JavaProjects
+  565  ls
+  566  cd Candies
+  567  l
+  568  ls
+  569  gedit CandyCount.java 
+  570  gedit Candycount.java 
+  571  ls
+  572  cd ..
+  573  ls
+  574  cd JavaIntro
+  575  ls
+  576  cd ..
+  577  ls
+  578  cd projet2
+  579  git pull origin master
+  580  ls
+  581  cd quetes
+  582  ls
+  583  cd JavaProjects
+  584  ls
+  585  cd Candies
+  586  ls
+  587  gedit Candycount.java
+  588  javac CandyCount.java
+  589  ls
+  590  javac Candycount.java
+  591  gedit Candycount.java
+  592  javac Candycount.java
+  593  gedit Candycount.java
+  594  javac Candycount.java
+  595  gedit Candycount.java
+  596  javac Candycount.java
+  597  gedit Candycount.java
+  598  javac Candycount.java
+  599  gedit Candycount.java
+  600  javac Candycount.java
+  601  gedit Candycount.java
+  602  javac Candycount.java
+  603  gedit Candycount.java
+  604  javac Candycount.java
+  605  gedit Candycount.java
+  606  javac Candycount.java
+  607  gedit Candycount.java
+  608  javac Candycount.java
+  609  ls
+  610  java Candycount
+  611  cd quetes
+  612  ls
+  613  cd JavaProjects
+  614  ls
+  615  cd Candies
+  616  ls
+  617  java Candycount
+  618  cd quetes/JavaProjects/Candies
+  619  ls
+  620  gedit Candycount.java
+  621  javac Candycount.java
+  622  gedit Candycount.java
+  623  javac Candycount.java
+  624  java Candycount
+  625  cd quetes/JavaProject/Candies
+  626  cd quetes/JavaProjects/Candies
+  627  l
+  628  sls
+  629  ls
+  630  java Candycount.java
+  631  java Candycount
+  632  gedit Cancycount.java
+  633  gedit Candycount.java
+  634  javac Candycount.java
+  635  java Candycount
+  636  gedit Candycount.java
+  637  java Candycount
+  638  gedit Candycount.java
+  639  java Candycount
+  640  gedit Candycount.java
+  641  java Candycount
+  642  gedit jaCandycount.java
+  643  gedit Candycount.java
+  644  javac Candycount.java
+  645  java Candycount
+  646  gedit Candycount.java
+  647  java Candycount
+  648  gedit Candycount.java
+  649  cd quetes
+  650  ls
+  651  cd projet2
+  652  git pull
+  653  cd quetes
+  654  s
+  655  ls
+  656  cd projet2
+  657  git pull
+  658  ls
+  659  git pull
+  660  git add projetbook.html
+  661  git commit
+  662  git add Projetbook2.html
+  663  git add projetbook2.css
+  664  git commit
+  665  git pull
+  666  git add Projetbook.html
+  667  git commit
+  668  git pull
+  669  git push
+  670  cd quetes
+  671  ls
+  672  cd projet2
+  673  git push
+  674  ls
+  675  git push
+  676  ls
+  677  git add book2.css
+  678  git add index2.html
+  679  git push
+  680  git commit
+  681  git push
+  682  cd quetes
+  683  ls
+  684  cd projet2
+  685  ls
+  686  git pull
+  687  cd .
+  688  ls
+  689  cd .
+  690  cd ..
+  691  ls
+  692  cd JavaProjects
+  693  ls
+  694  gedit
+  695  cd ..
+  696  ls
+  697  cd projet2
+  698  ls
+  699  git pull
+  700  cd quetes
+  701  ls
+  702  cd projet2
+  703  ls
+  704  lq
+  705  ls
+  706  git pull
+  707  ls
+  708  git add
+  709  git add .
+  710  git commit
+  711  git pull
+  712  git add .
+  713  git commit
+  714  git pull
+  715  ls
+  716  git branch test
+  717  ls
+  718  git git checkout test
+  719  git checkout test
+  720  git checkout master
+  721  git pull
+  722  cd ..
+  723  git clone Projet2
+  724  cd ..
+  725  ls
+  726  git clone projet2
+  727  mkdir projet2
+  728  ls
+  729  cd projet2
+  730  git clone
+  731  git clone projet2
+  732  git clone https://github.com/JuDubois/book-des-wilders
+  733  ls
+  734  cd book-des-wilders
+  735  ls
+  736  git branch test
+  737  git checkout test
+  738  git branch
+  739  ls
+  740  cd quetes
+  741  ls
+  742  cd JavaProjects
+  743  ls
+  744  branch checkout master
+  745  git checkout master
+  746  ls
+  747  gedit indianajones
+  748  ls
+  749  rn indianajones indianajones.java
+  750  mv indianajones indianajones.java
+  751  ls
+  752  gedit indianajones.java
+  753  javac indianajones.java
+  754  gedit indianajones.java
+  755  javac indianajones.java
+  756  gedit indianajones.java
+  757  javac indianajones.java
+  758  gedit  indianajones.java
+  759  javac indianajones.java
+  760  gedit IndianaJones.java
+  761  ls
+  762  gedit indianajones.java
+  763  javac indianajones.java
+  764  ls
+  765  java indianajones
+  766  gedit indianajones.java
+  767  ls
+  768  gedit indianajones.java
+  769  ls
+  770  javac IndianaJones.java
+  771  java IndianaJones
+  772  gedit IndianaJones.java
+  773  cd ..
+  774  ls
+  775  cd ..
+  776  ls
+  777  cd projet2
+  778  ls
+  779  git checkout master
+  780  cd book-des-wilders
+  781  ls
+  782  git checkout master
+  783  ls
+  784  git checkout master
+  785  git pull origin master
+  786  git checkout test
+  787  git checkout master
+  788  git pull
+  789  ls
+  790  cd projet2
+  791  ls
+  792  cd book-des-wilders
+  793  ls
+  794  cd ..
+  795  ls
+  796  cd ..
+  797  ls
+  798  cd projt2
+  799  cd projet2
+  800  ls
+  801  git clone https://github.com/JuDubois/book-des-wilders
+  802  ls
+  803  cd book-des-wilders
+  804  ls
+  805  git pull origin master
+  806  ls
+  807  cd projet2/book-des-wilders
+  808  ls
+  809  git pull origin master
+  810  ls
+  811  cd projet2
+  812  ls
+  813  cd book-des-wilders
+  814  fit pull
+  815  git pull origin master
+  816  git checkout dev
+  817  git checkout master
+  818  git checkout -b clock
+  819  git checkout clock
+  820  ls
+  821  git checkout master
+  822  cd quetes
+  823  ls
+  824  cd ..
+  825  cd projet2
+  826  ls
+  827  cd book-des-wilders
+  828  ls
+  829  git pull
+  830  cd ..
+  831  ls
+  832  cd quetes
+  833  ls
+  834  cd JavaProjects
+  835  s
+  836  ls
+  837  mkdir secretsentence
+  838  ls
+  839  cd secretsentence
+  840  ls
+  841  gedit SecretSentence
+  842  ls
+  843  gedit SecretSentence.java
+  844  ls
+  845  mv writeSecretSentence.java SecretSentence.java
+  846  ls
+  847  javac writeSecretSentence
+  848  ls
+  849  javac writeSecretSentence.java
+  850  gedit writeSecretSentence.java
+  851  javac writeSecretSentence.java
+  852  gedit writeSecretSentence.java
+  853  javac writeSecretSentence.java
+  854  gedit writeSecretSentence.java
+  855  javac writeSecretSentence.java
+  856  gedit writeSecretSentence.java
+  857  javac writeSecretSentence.java
+  858  gedit writesecretSentence.java
+  859  gedit writeSecretSentence.java
+  860  javac writeSecretSentence.java
+  861  gedit writeSecretSentence.java
+  862  javac writeSecretSentence.java
+  863  gedit writeSecretSentence.java
+  864  javac writeSecretSentence.java
+  865  ls
+  866  java writeSecretSentence.java
+  867  java writeSecretSentence
+  868  ls
+  869  java writeSecretSentence.java
+  870  ls
+  871  gedit SecretSengtence.java
+  872  gedit SecretSentence.java
+  873  ls
+  874  java SecretSentence.java
+  875  ls
+  876  java SecretSentence
+  877  gedit SecretSentence.java
+  878  java SecretSentence
+  879  ls
+  880  gedit SecretSentence.java
+  881  javac SecretSentence.java
+  882  ls
+  883  java SecreteSentence.java
+  884  java SecretSentence.java
+  885  ls
+  886  java SecretSentence
+  887  gedit SecretSentence.java
+  888  javac SecretSentence.java
+  889  gedit SecretSentence.java
+  890  javac SecretSentence.java
+  891  ls
+  892  java SecretSentence
+  893  gedit SecretSentence.java
+  894  ./tester.sh Primitives
+  895  cd ..
+  896  ./tester.sh Primitives
+  897  gedit Primitives.java
+  898  ls
+  899  cd src
+  900  ls
+  901  cd exercices
+  902  cd
+  903  ls
+  904  cd quetes
+  905  ls
+  906  cd javatraining1/java-training
+  907  ls
+  908  cd src
+  909  ls
+  910  cd exercices
+  911  ls
+  912  gedit Primitives.java
+  913  cd
+  914  cd quetes/javatraining1/java-training
+  915  ./tester.sh Primitives
+  916  cd src
+  917  ls
+  918  cd exercices
+  919  ls
+  920  gedit Primitives.java
+  921  cd ..
+  922  ./tester.sh Primitives
+  923  cd src
+  924  gedit Primitives.java
+  925  ls
+  926  cd exercices
+  927  gedit Primitives.java
+  928  ls
+  929  cd ..
+  930  ./tester.sh Primitives
+  931  ./tester.sh Primitives
+  932  ls
+  933  cd quetes
+  934  ls
+  935  mkdir javatraining1
+  936  ls
+  937  cd javatraining1
+  938  ls
+  939  git remote add upstream https://github.com/WildCodeSchool/java-training.git
+  940  git add https://github.com/Methodtw/java-training
+  941  git add java-training
+  942  git clone
+  943  git clone WildCodeSchool:master
+  944  git clone master
+  945  git clone
+  946  git clone https://github.com/Methodtw/java-training
+  947  ls
+  948  cd java-training
+  949  ls
+  950  git remote add upstream https://github.com/WildCodeSchool/java-training.git
+  951  ls
+  952  git fetch upstream
+  953  git checkout master
+  954  ls
+  955  git merge upstream/master
+  956  ls
+  957  tree
+  958  git status
+  959  git add hamcrest-core-1.3.jar
+  960  ls
+  961  cd li
+  962  cd lib
+  963  ls
+  964  git add hamcrest-core-1.3.jar
+  965  ls
+  966  git add junit-4.12.jar
+  967  ls
+  968  git status
+  969  cd ..
+  970  tree
+  971  ./tester.sh
+  972  lq
+  973  ls
+  974  ./tester.sh Primitives
+  975  ls
+  976  cd src
+  977  ls
+  978  cd exercices
+  979  ls
+  980  gedit person.java
+  981  gedit Person.java
+  982  gedit Primitives.java
+  983  cd ..
+  984  ls
+  985  cd tests
+  986  ls
+  987  gedit MainTest.java
+  988  gedit PrimitivesTest.java
+  989  ls
+  990  cd ..
+  991  ls
+  992  cd src
+  993  ls
+  994  cd exercices
+  995  ls
+  996  gedit Primitives.java
+  997  bash
+  998  cd quetes
+  999  ls
+ 1000  cd javatraining1
+ 1001  cd java-training
+ 1002  cd src
+ 1003  cd exercices
+ 1004  cd ..
+ 1005  ls
+ 1006  mkdir javacours
+ 1007  ls
+ 1008  cd javacours
+ 1009  gedit HelloWorld.java
+ 1010  ls
+ 1011  javac Helloworld.java
+ 1012  javac HelloWorld.java
+ 1013  gedit HelloWorld.java
+ 1014  javac HelloWorld.java
+ 1015  gedit HelloWorld.java
+ 1016  javac HelloWorld.java
+ 1017  gedit HelloWorld.java
+ 1018  javac HelloWorld.java
+ 1019  gedit HelloWorld.java
+ 1020  javac HelloWorld.java
+ 1021  gedit HelloWorld.java
+ 1022  javac HelloWorld.java
+ 1023  gedit HelloWorld.java
+ 1024  javac HelloWorld.java
+ 1025  gedit HelloWorld.java
+ 1026  javac HelloWorld.java
+ 1027  gedit HelloWorld.java
+ 1028  javac HelloWorld.java
+ 1029  gedit HelloWorld.java
+ 1030  javac HelloWorld.java
+ 1031  java HelloWorld
+ 1032  gedit HelloWorld.java
+ 1033  java HelloWorld
+ 1034  javac HelloWorld.java
+ 1035  java HelloWorld
+ 1036  cd ..
+ 1037  ls
+ 1038  cd javatraining1/java-training
+ 1039  ls
+ 1040  cd ..
+ 1041  ./tester.sh Primitives
+ 1042  cd java-training
+ 1043  ./tester.sh Primitives
+ 1044  ls
+ 1045  cd src
+ 1046  cd exercices
+ 1047  ls
+ 1048  gedit Primitives.java
+ 1049  cd ..
+ 1050  ./tester.sh Primitives
+ 1051  gedit Primitives.java
+ 1052  cd exercices
+ 1053  ls
+ 1054  cd src
+ 1055  ls
+ 1056  cd exercices
+ 1057  cd src
+ 1058  ls
+ 1059  gedit Primitives.java
+ 1060  cd ..
+ 1061  ls
+ 1062  ./tester.sh Primitives
+ 1063  ls
+ 1064  cd src
+ 1065  ls
+ 1066  cd exercices
+ 1067  ls
+ 1068  gedit Primitives.java
+ 1069  cd ..
+ 1070  ./tester.sh Primitives
+ 1071  cd ..
+ 1072  ls
+ 1073  git push
+ 1074  git status
+ 1075  git init
+ 1076  git push
+ 1077  git status
+ 1078  git add java-training
+ 1079  git push
+ 1080  git status
+ 1081  git add java-training
+ 1082  git commit
+ 1083  git push
+ 1084  git push branch master
+ 1085  git push master
+ 1086  git push --set-upstream master master
+ 1087  git push --set-upstream master
+ 1088  ls
+ 1089  git push
+ 1090  git status
+ 1091  git add java-training
+ 1092  git status
+ 1093  git add java-training
+ 1094  l
+ 1095  sls
+ 1096  ls
+ 1097  git status
+ 1098  git add java-training
+ 1099  git commit
+ 1100  ls
+ 1101  git push
+ 1102  git add java-training
+ 1103  git commit
+ 1104  git add java-training
+ 1105  git commit master
+ 1106  git commit branch master
+ 1107  git status
+ 1108  git add .
+ 1109  git commit
+ 1110  git add .
+ 1111  git commit
+ 1112  ls
+ 1113  cd java-training
+ 1114  git add .
+ 1115  git commit
+ 1116  git push
+ 1117  ls
+ 1118  git push
+ 1119  git status
+ 1120  git commit
+ 1121  git push
+ 1122  ls -a
+ 1123  cd ..
+ 1124  ls -a
+ 1125  rm .git
+ 1126  ls
+ 1127  man ls
+ 1128  ls -a
+ 1129  rm .git
+ 1130  rm -r .git
+ 1131  ls -a
+ 1132  rm -rf .git
+ 1133  ls -a
+ 1134  cd ..
+ 1135  cd quetes
+ 1136  ls
+ 1137  cd clmystery-master
+ 1138  ls
+ 1139  nano cheatsheet.md
+ 1140  cd mystery
+ 1141  ls
+ 1142  cd crimescene
+ 1143  cat crimescene
+ 1144  ls
+ 1145  cd ..
+ 1146  ls
+ 1147  cat hint1
+ 1148  head -n 20 people
+ 1149  cat hint2
+ 1150  cd mystery
+ 1151  ls
+ 1152  cat crimescene
+ 1153  find CLUE
+ 1154  cd ..
+ 1155  ls
+ 1156  cat hint1
+ 1157  head -n 20 hint2
+ 1158  cd mystery
+ 1159  ls
+ 1160  head -n 20 crimescene
+ 1161  grep -rnw crimescene -e CLUE
+ 1162  ls
+ 1163  cd ..
+ 1164  ls
+ 1165  cat hint3
+ 1166  cd mystery
+ 1167  ls
+ 1168  head -n people
+ 1169  head -n 20 people
+ 1170  head -n 50 people
+ 1171  head -n 50 vehicules
+ 1172  head -n 50 vehicles
+ 1173  head -n 100 vehicles
+ 1174  head -n 300 vehicles
+ 1175  head -n 500 vehicles
+ 1176  cd ..
+ 1177  ls
+ 1178  cat hint4
+ 1179  mystery
+ 1180  cd mystery
+ 1181  grep "Annabel" people
+ 1182  cd .;
+ 1183  cd ..
+ 1184  ls
+ 1185  cat hint5
+ 1186  cd mystery
+ 1187  head -n 173 streets/mattapan_Street
+ 1188  ls
+ 1189  head -n 173 interviews
+ 1190  cd interviews
+ 1191  ls
+ 1192  head-n 173 streets/Mattapen_Street 
+ 1193  head -n 173 streets/Mattapan_Street
+ 1194  head -n 173 streets/Mattapan_Street | tail -n 1
+ 1195  cat interview-17343208
+ 1196  cd ..
+ 1197  ls
+ 1198  cat hint6
+ 1199  cd mystery
+ 1200  grep "Honda" vehicles
+ 1201  grep "l337" Vehicles
+ 1202  grep "L337" Vehicles
+ 1203  grep "L337" vehicles
+ 1204  grep "Honda" "L337" "Blue" vehicles
+ 1205  grep "Blue" vehicles
+ 1206  cd ..
+ 1207  ls
+ 1208  cat hint4
+ 1209  cat hint5
+ 1210  mystery
+ 1211  cd mystery
+ 1212  ls
+ 1213  head -n 173 streets/Hart_place | tail -n 1
+ 1214  head -n 173 streets/Hart place | tail -n 1
+ 1215  cd interviews
+ 1216  head -n 173 streets/Hart place | tail -n 1
+ 1217  ls
+ 1218  head -n 173 streets/Hart_Place | tail -n 1
+ 1219  head -n 40 streets/Hart_Place | tail -n 1
+ 1220  ls
+ 1221  cd ..
+ 1222  ls
+ 1223  cd streets
+ 1224  ls
+ 1225  head -n 40 streets/Hart_Place | tail -n 1
+ 1226  head -n 40 Hart_Place | tail -n 1
+ 1227  cd ..
+ 1228  ls
+ 1229  cd interviews
+ 1230  ls
+ 1231  car interview-47246024
+ 1232  cat interview-47246024
+ 1233  cd ..
+ 1234  ls
+ 1235  cd streets
+ 1236  ls
+ 1237  cat Buckingam_Place
+ 1238  cat Buckingham_Place
+ 1239  cd..
+ 1240  ls
+ 1241  cd ..
+ 1242  ls
+ 1243  cd interviews
+ 1244  cat interview-699607
+ 1245  cd ..
+ 1246  ls
+ 1247  cd ..
+ 1248  ls
+ 1249  cat hint6
+ 1250  cat hint7
+ 1251  grep -A 5 "L337" mystery/vehicles
+ 1252  cd ..
+ 1253  ls
+ 1254  cd clmystery-master
+ 1255  ls
+ 1256  cat hint7
+ 1257  cat hint8
+ 1258  cat Fitness_Galaxy AAA United_MileagePlus | grep -c "John Smith"
+ 1259  ls
+ 1260  cd mystery
+ 1261  ls
+ 1262  cd memberships
+ 1263  ls
+ 1264  cat Fitness_Galaxy AAA United_MileagePlus | grep -c "John Smith"
+ 1265  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
+ 1266  cd ..
+ 1267  ls
+ 1268  cat hint8
+ 1269  cat hint9
+ 1270  cd mystery
+ 1271  ls
+ 1272  cd memberships
+ 1273  ls
+ 1274  cat AAA
+ 1275  cd ..
+ 1276  ls
+ 1277  cat hint8
+ 1278  cd mystery
+ 1279  ls
+ 1280  cat vehicles
+ 1281  grep -A 5 "L337" mystery/vehicles
+ 1282  grep -A 5 "L337" vehicles
+ 1283  cd ..
+ 1284  ls
+ 1285  cd mystery
+ 1286  ls
+ 1287  cd memberships
+ 1288  cat Fitness_Galaxy AAA United_MileagePlus | grep -c "Jacqui Maher"
+ 1289  cat Sky_miles AAA The_local_library the_museum_of_bash | grep -c "Jacqui Maher"
+ 1290  cat SkyMiles AAA Terminal_City_Library The_museum_of_bash | grep -c "Jacqui Maher"
+ 1291  cat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_History | grep -c "Jacqui Maher"
+ 1292  cat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_History | grep -c "Jeremy Bowers"
+ 1293  echo Jeremy Bowers
+ 1294  mon_historique.log
+ 1295  history > mon_historique.log
